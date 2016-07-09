@@ -10,5 +10,5 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-plusplus",
-  "hubot--heroku-keepalive"
+  "hubot-heroku-keepalive"
 ]
