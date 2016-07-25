@@ -11,5 +11,7 @@
   "hubot-shipit",
   "hubot-plusplus",
   "hubot-heroku-keepalive",
-  "hubot-pokemon"
+  "hubot-pokemon",
+  "hubot-whos-that-pokemon",
+  "hubot-pokemongo"
 ]
